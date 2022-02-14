@@ -14,6 +14,7 @@ function createListItem(track) {
 
 function displayTracks(tracks) {
     console.log(tracks);
+    console.log(audioElem);
     for (const track of tracks) {
         if (track.preview_url) {
             createListItem(track);

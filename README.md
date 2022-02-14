@@ -17,3 +17,5 @@ Export: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statem
 Return i funktioner: https://www.youtube.com/watch?v=FioqUnOGlq8
 
 ## Inspelningar
+
+https://funet-my.sharepoint.com/:f:/g/personal/christoffer_wallenberg_folkuniversitetet_se/Eqr6GS2CWtFCtasdFByKCdYBujDdULC8OPypYyW4sMTiFA?e=Fr0CSC
